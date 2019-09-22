@@ -1,7 +1,5 @@
 ---
 title: "Homepage"
-author: "Jacob Leiser"
-date: "21 September 2019"
 output: html_document
 ---
 

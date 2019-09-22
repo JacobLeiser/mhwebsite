@@ -7,3 +7,27 @@ output:
     theme: journal  
 navbar:  
   title: "Mental Health Website"
+  right:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Conditions"
+      icon: fa-head-side-brain
+      menu:
+        - text: "Depression"
+        - text: "Anxiety"
+        - text: "OCD"
+        - text: "Addiction"
+        - text: "Skin-Picking"
+        - text: "Trauma"
+    - text: "General Tips"
+      icon: fa-lightbulb
+      menu: 
+        - text: "Diet"
+        - text: "Exercise"
+    - text: "Worksheets"
+      icon: fa-edit
+      menu:
+        - text: "Daily Diary"
+        - text: "Productivity Sheet"
+        - text: "Leaf Sheet"
