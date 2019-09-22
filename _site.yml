@@ -1,0 +1,9 @@
+name: "Mental Health Website"  
+author: "Jacob Leiser"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: journal  
+navbar:  
+  title: "Mental Health Website"
